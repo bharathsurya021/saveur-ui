@@ -1,12 +1,26 @@
-# React + Vite
+# Saveur Website
 
-Welcome to the Saveur website repository! This repository contains all the source code and assets for the Saveur website for frontend, which you can visit live at https://saveur.netlify.app/. /
-API_URL - https://saveurapi.onrender.com /
+Welcome to the Saveur website repository! This repository contains all the source code and assets for the Saveur website's frontend. You can visit the live website at [https://saveur.netlify.app/](https://saveur.netlify.app/).
 
-# Login Details 
-email : test1@example.com /
-password : 12345 /
+## API URL
 
-# To run locally /
-Run "npm run dev" command in your rootfolder
+If you need to interact with the backend, you can use the following API endpoint:
 
+API URL: [https://saveurapi.onrender.com](https://saveurapi.onrender.com)
+
+## Login Details
+
+To access certain features of the website, you can use the following login details:
+
+- Email: test1@example.com
+- Password: 12345
+
+## Getting Started
+
+To run the Saveur website locally, follow these steps:
+
+   git clone https://github.com/your-username/saveur-website.git
+   
+   cd saveur-website
+   
+   npm run dev
