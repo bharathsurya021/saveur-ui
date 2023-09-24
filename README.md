@@ -1,8 +1,26 @@
-# React + Vite
+# Saveur Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Saveur website repository! This repository contains all the source code and assets for the Saveur website's frontend. You can visit the live website at [https://saveur.netlify.app/](https://saveur.netlify.app/).
 
-Currently, two official plugins are available:
+## API URL
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+If you need to interact with the backend, you can use the following API endpoint:
+
+API URL: [https://saveurapi.onrender.com](https://saveurapi.onrender.com)
+
+## Login Details
+
+To access certain features of the website, you can use the following login details:
+
+- Email: test1@example.com
+- Password: 12345
+
+## Getting Started
+
+To run the Saveur website locally, follow these steps:
+
+   git clone https://github.com/your-username/saveur-website.git
+   
+   cd saveur-website
+   
+   npm run dev
