@@ -93,7 +93,7 @@ const AddContact = () => {
               },
               {
                 min: 10,
-                message: 'Password must be at least 10 characters long!',
+                message: 'Phone number must be at least 10 characters long!',
               },
             ]}
           >
